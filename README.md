@@ -1,5 +1,5 @@
-<h1 align="center">Hello, I'm Vitalisy</h1>
-<h3 align="center">I'm a Discord bot developer.</h3>
+<h1 align="center">WSG cracker</h1>
+<h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vitalisy&label=Profile%20views&color=0e75b6&style=flat" alt="vitalisy" /> </p>
 
